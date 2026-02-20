@@ -41,7 +41,7 @@ The project focuses on transforming raw business data into actionable insights u
 
 ## 📸 Dashboard Preview
 
-![Sales Dashboard](Products_sales _Region.png)
+![Sales Dashboard](Products_sales_Region.png)
 ---
 
 ## 🎤 Executive Presentation
